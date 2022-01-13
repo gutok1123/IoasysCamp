@@ -24,4 +24,4 @@ function calcular()
     {
         document.getElementById('result').innerHTML = "Error :("
     }
-}
+} 
